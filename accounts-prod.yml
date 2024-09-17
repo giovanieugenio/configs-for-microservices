@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to GioBank accounts related production APIs"
   contactDetails:
     name: "Jorge - Product Owner"
-    email: "jorge-po@giobank.com"
+    email: "{cipher}6b992561a9eaa5e2c8aaf689bee4765d11f3ba58972c9e9ab44eb7120621dd69"
   onCallSupport:
     - (32)774512369
     - (32)884123654
